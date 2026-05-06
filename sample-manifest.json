@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4c90f4b8-0a88-4338-9e96-39e9fd3f7da1",
+  "export_job_id": "3e260109-8add-40b3-abe6-165664abcfca",
   "id_short": 876705,
-  "published_at": "2026-04-28T19:58:21Z",
+  "published_at": "2026-05-06T19:20:58Z",
   "repo_name": "all-restaurants-in-corona-california-us-sample-876705",
   "sample_asset_name": "beamstation_876705_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/876705/beamstation_876705_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 31,
-  "sample_sha256": "43aa046ec38a5534b5967fcf163c2feca52d38c6b641c6117c8623f21c8cee63",
-  "sample_size_bytes": 110132,
-  "total_records": 319
+  "sample_records": 37,
+  "sample_sha256": "12084aad7e1cfacd41ee55040b8354a787a112e91762e2b54809cf9b0efe0274",
+  "sample_size_bytes": 153509,
+  "total_records": 374
 }
