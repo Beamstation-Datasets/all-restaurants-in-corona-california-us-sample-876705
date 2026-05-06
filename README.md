@@ -1,6 +1,6 @@
 # All Restaurants in Corona, California, US
 
-> Free BeamStation sample export with 31 rows and masked direct-contact fields.
+> Free BeamStation sample export with 37 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `876705` |
 | Location | Corona |
 | Category | Restaurants |
-| Full dataset size | 319 records |
-| Free sample size | 31 records (9.72%) |
-| Last export | 2026-04-28T15:36:10.541120+00:00 |
+| Full dataset size | 374 records |
+| Free sample size | 37 records (9.89%) |
+| Last export | 2026-05-06T10:01:30.513500+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-corona-california-us-sample-876705/releases/download/sample-latest/beamstation_876705_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
